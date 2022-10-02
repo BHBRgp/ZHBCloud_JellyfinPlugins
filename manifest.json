@@ -1,0 +1,44 @@
+[
+  {
+    "guid": "69384327-d223-447a-ae23-47767eed1749",
+    "name": "M3U Editor",
+    "description": "Edit Live TV M3U channel lists",
+    "overview": "Edit Live TV M3U channel lists",
+    "owner": "Mr. Chip53",
+    "category": "Live TV",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://simoni.dev/jellyfin/M3UEditor/10.7.0.01/Jellyfin.Plugin.M3UEditor.zip",
+        "checksum": "1f7e24908bfc1a68374890706c9fd1d4",
+        "timestamp": "2021-01-16T06:18:27Z"
+      },
+	  {
+        "version": "0.2.0.0",
+        "changelog": "-Add API key to M3U urls, add 'tvg-chno' attribute to channels that don't already have it",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://simoni.dev/jellyfin/M3UEditor/10.7.0.02/Jellyfin.Plugin.M3UEditor.zip",
+        "checksum": "2e1d1aa0648eb2643bb440dbf2b5927c",
+        "timestamp": "2021-01-17T06:18:27Z"
+      },
+	  {
+        "version": "1.0.0.0",
+        "changelog": "- Add tabs to UI<br />- Filter by hidden value<br />- Search by channel name<br />- Delete playlists<br />- Refresh channels from source<br />- Custom user agents when fetching m3u<br />- Minor improvements<br />",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://simoni.dev/jellyfin/M3UEditor/1.0.0.0/Jellyfin.Plugin.M3UEditor.zip",
+        "checksum": "3c692f2b5d6327986e2faefb0b575868",
+        "timestamp": "2021-01-22T06:18:27Z"
+      },
+	  {
+        "version": "1.1.0.0",
+        "changelog": "- Improve mass hiding functions",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://simoni.dev/jellyfin/M3UEditor/1.1.0.0/Jellyfin.Plugin.M3UEditor.zip",
+        "checksum": "0f39094bc7225672d040fc5f469c8ab6",
+        "timestamp": "2021-01-22T06:18:27Z"
+      }
+    ]
+  }
+]
